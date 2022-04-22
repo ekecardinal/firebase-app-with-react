@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `Firestore`
+firebase folder is excluded in this, you can create a firebase account and configure to test this app
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
